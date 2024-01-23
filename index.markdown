@@ -33,6 +33,7 @@ title: Morgan Nettles
 [//]: - how to share files and folders from your google drive
 [//]: - how to scan with an hp printer
 
+
 ## Education
 - B.A., Furman University
 - Google Technical Writing 1 & 2, Technical Writing for Accessibility (2023)
