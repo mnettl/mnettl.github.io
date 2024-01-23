@@ -29,9 +29,9 @@ title: Morgan Nettles
 - <a href="/page-2/">NT&A website copy</a>
 - <a href="/page-3">Gumroad sales page copy</a>
 
-### Explaining Tech to the Tech Averse
-- how to share files and folders from your google drive
-- how to scan with an hp printer
+[//]: ### Explaining Tech to the Tech Averse
+[//]: - how to share files and folders from your google drive
+[//]: - how to scan with an hp printer
 
 ## Education
 - B.A., Furman University
