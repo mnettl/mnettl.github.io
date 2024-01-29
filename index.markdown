@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Morgan Nettles
 ---
@@ -19,11 +16,7 @@ title: Morgan Nettles
 ## Work Examples
 ### Documentation
 - <a href="http://github.com/mnettl">Github</a>
-- <a href="#">writefilescsv</a>
-- <a href="#">tiktok pics wrangling</a> - github (add the csv to notion one)
-- <a href="#">sbgamegetter</a> - github
-- <a href="#">Connections API</a> - github
-- <a href="#">add csv pages to notion</a> - github
+
 
 ### Website Copy
 - <a href="/page-2/">NT&A website copy</a>
