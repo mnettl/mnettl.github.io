@@ -15,7 +15,7 @@ I coded the website, wrote the copy, and used SEO to get the page to the top of 
 ![](/images/2024-01-02 15_01_43-about.png)
 *screenshot of the About Us page*
 
-![](/images/2024-01-23-contact-us.png)
-*Screenshot of the Contact Us page*
+[//]: ![](/images/2024-01-23-contact-us.png)
+[//]: *Screenshot of the Contact Us page*
 
 
