@@ -19,8 +19,8 @@ title: Morgan Nettles
 
 
 ### Website Copy
-- <a href="/page-2/">NT&A website copy</a>
-- <a href="/page-3">Gumroad sales page copy</a>
+- website copy - <a href="/page-2/">Nettles Tire and Auto Service Center, LLC</a>
+- sales copy - <a href="/page-3">Gumroad - Simple Notion Reading List Template</a>
 
 [//]: ### Explaining Tech to the Tech Averse
 [//]: - how to share files and folders from your google drive
