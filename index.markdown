@@ -30,6 +30,6 @@ title: Morgan Nettles
 ## Education
 - B.A., Furman University
 - Google Technical Writing 1 & 2, Technical Writing for Accessibility (2023)
+- Modern English Grammar
 - Computer Science 1 & 2 (Java)
 - Information Technology 1 (PHP, MySQL database design)
-- Modern English Grammar
