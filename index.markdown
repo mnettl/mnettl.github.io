@@ -10,7 +10,7 @@ title: Morgan Nettles
 - Python, Flask, PHP, C#, Java
 - SQL (MySQL, SQLite3), JSON, CSV
 - Apache server
-- Windows, Linux (Debian-based distributions), Mac OS
+- Windows, Linux (Debian, Ubuntu), Bash, Mac OS
 
 
 ## Work Examples
