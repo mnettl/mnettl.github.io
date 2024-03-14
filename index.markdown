@@ -9,7 +9,7 @@ title: Morgan Nettles
 - Git & Github, Jekyll
 - Python, Flask, PHP, C#, Java
 - SQL (MySQL, SQLite3), JSON, CSV
-- Apache server
+- LAMP stack (Linux, Apache Server, MySQL, PHP)
 - Windows, Linux (Debian, Ubuntu), Bash, Mac OS
 
 
