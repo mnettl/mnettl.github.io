@@ -6,7 +6,7 @@ title: Morgan Nettles
 ## Skills
 - HTML, CSS, Markdown
 - Word, Google Docs, Google Sheets, Notion, Obsidian, Scrivener
-- Git & Github, Jekyll
+- Git & Github, Jekyll, Postman
 - Python, Flask, PHP, C#, Java
 - SQL (MySQL, SQLite3), JSON, CSV
 - LAMP stack (Linux, Apache Server, MySQL, PHP)
