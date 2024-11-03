@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 17:53:56 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Fri, 01 Nov 2024 17:53:56 -0400</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://#&#34;&gt;Web Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://#&#34;&gt;APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://#&#34;&gt;Various Other Apps (bash scripts, etc.))&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>New Post</title>
+      <link>http://localhost:1313/posts/new-post/</link>
+      <pubDate>Thu, 31 Oct 2024 14:06:44 -0400</pubDate>
+      <guid>http://localhost:1313/posts/new-post/</guid>
+      <description>&lt;h2 id=&#34;hello-there&#34;&gt;Hello There!&lt;/h2&gt;
+&lt;p&gt;This is the first post on my new HUGO site. I don&amp;rsquo;t really know what&amp;rsquo;s going on here, but I&amp;rsquo;m trying to learn!&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Morgan&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
