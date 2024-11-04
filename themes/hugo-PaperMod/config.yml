@@ -3,15 +3,15 @@ params:
     enabled: true
     title: "Morgan Nettles" # optional default will be site title
     subtitle: "Writer, developer, tinkerer"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    # imageUrl: "<image link>" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
     buttons:
       # - name: Archive
       #   url: "/archive"
       - name: Projects
-        url: "/content/projects.md"
+        url: "/projects"
       #- name: Github
       #url: "https://github.com/monett010"
 
