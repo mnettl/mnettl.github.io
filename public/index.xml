@@ -13,10 +13,26 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Fri, 01 Nov 2024 17:53:56 -0400</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://#&#34;&gt;Web Apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://#&#34;&gt;APIs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://#&#34;&gt;Various Other Apps (bash scripts, etc.))&lt;/a&gt;&lt;/li&gt;
+      <description>&lt;h2 id=&#34;web-apps&#34;&gt;Web Apps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Library&lt;/strong&gt; - (JavaScript, Python, Flask, MySQL)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nettles Tire &amp;amp; Auto Svc. Center, LLC&lt;/strong&gt; - responsive website for a small business (HTML, CSS, jQuery)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CoffeeBrew&lt;/strong&gt; - (PHP 7, MySQL, jQuery)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FinancePro&lt;/strong&gt; - (PHP 7, MySQL)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CD Collection&lt;/strong&gt; - (PHP 7, MySQL)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rest-apis&#34;&gt;REST APIs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Connections API&lt;/strong&gt; - Archive for a popular word game (Python, Flask &amp;amp; SQLite) [API | Documentation]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Library API&lt;/strong&gt; - Backend for Library app (Python, Flask &amp;amp; MySQL) [API | Documentation]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;various-apps&#34;&gt;Various Apps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Omnivore JSON Merger&lt;/strong&gt; - Script to merge Omnivore export files (Python)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arch Install Scripts&lt;/strong&gt; - Suite of scripts to install Arch Linux (Bash)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discord Updater&lt;/strong&gt;- Script to update Discord on Debian Linux and Debian-based distros&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;YouTubeMusic2CSV&lt;/strong&gt; - Converts Youtube Music playlists to CSV files (Python)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TikTok backup suite&lt;/strong&gt; - Suite of scripts to rename downloaded videos, write filenames to CSV, and merge the CSV to a Notion database (Python)&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
