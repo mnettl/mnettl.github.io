@@ -16,7 +16,7 @@ params:
       #url: "https://github.com/monett010"
 
   socialIcons: # optional
-    - name: "LinkedIn"
-      url: "https://linkedin.com/#"
+    # - name: "LinkedIn"
+    #   url: "https://linkedin.com/#"
     - name: "Github"
       url: "https://github.com/mnettl"
