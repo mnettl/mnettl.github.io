@@ -1,4 +1,6 @@
 params:
+  defaultTheme: dark
+  disableThemeToggle: true
   profileMode:
     enabled: true
     title: "Morgan Nettles" # optional default will be site title
@@ -14,6 +16,8 @@ params:
         url: "/projects"
       #- name: Github
       #url: "https://github.com/monett010"
+      - name: Technical Writing
+        url: "/tech_writing"
 
   socialIcons: # optional
     # - name: "LinkedIn"
