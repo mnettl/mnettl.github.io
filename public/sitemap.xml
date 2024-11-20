@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tech_writing/gumroad/index/</loc>
+    <lastmod>2024-11-20T17:05:28-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-13T15:41:11-05:00</lastmod>
+    <lastmod>2024-11-20T17:05:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech_writing/nt_a/index/</loc>
+    <lastmod>2024-11-18T13:54:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tech_writing/</loc>
     <lastmod>2024-11-13T15:41:11-05:00</lastmod>

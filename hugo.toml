@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Morgan Nettles'
 theme = 'hugo-PaperMod'
 sectionPagesMenu = 'main'
+[markup.goldmark.renderer]
+unsafe = true

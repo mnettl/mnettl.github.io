@@ -4,7 +4,7 @@
     <title>Morgan Nettles</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Morgan Nettles</description>
-    <generator>Hugo -- 0.138.0</generator>
+    <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Nov 2024 15:41:11 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,39 @@
       <link>http://localhost:1313/tech_writing/</link>
       <pubDate>Wed, 13 Nov 2024 15:41:11 -0500</pubDate>
       <guid>http://localhost:1313/tech_writing/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML, CSS, Markdown&lt;/li&gt;
+&lt;li&gt;Word, Google Docs, Google Sheets, Notion, Obsidian, Scrivener&lt;/li&gt;
+&lt;li&gt;Git &amp;amp; Github, Jekyll, Postman&lt;/li&gt;
+&lt;li&gt;Python, Flask, PHP, C#, Java&lt;/li&gt;
+&lt;li&gt;SQL (MySQL, SQLite3), JSON, CSV&lt;/li&gt;
+&lt;li&gt;LAMP stack (Linux, Apache Server, MySQL, PHP)&lt;/li&gt;
+&lt;li&gt;Windows, Linux (Debian, Ubuntu), Bash, Mac OS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;work-examples&#34;&gt;Work Examples&lt;/h2&gt;
+&lt;h3 id=&#34;documentation&#34;&gt;Documentation&lt;/h3&gt;
+&lt;p&gt;Github&lt;/p&gt;
+&lt;h3 id=&#34;website-copy&#34;&gt;Website Copy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;website copy - &lt;a href=&#34;http://localhost:1313/tech_writing/nt_a/index&#34;&gt;Nettles Tire and Auto Service Center, LLC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sales copy - &lt;a href=&#34;http://localhost:1313/tech_writing/gumroad/index&#34;&gt;Gumroad - Simple Notion Reading List Template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+[//]: ### Explaining Tech to the Tech Averse
+[//]: - how to share files and folders from your google drive
+[//]: - how to scan with an hp printer
+--&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;B.A., Furman University&lt;/li&gt;
+&lt;li&gt;Google Technical Writing 1 &amp;amp; 2, Technical Writing for Accessibility (2023)&lt;/li&gt;
+&lt;li&gt;Modern English Grammar&lt;/li&gt;
+&lt;li&gt;Creative Writing&lt;/li&gt;
+&lt;li&gt;Integrated Marketing Communications&lt;/li&gt;
+&lt;li&gt;Computer Science 1 &amp;amp; 2 (Java)&lt;/li&gt;
+&lt;li&gt;Information Technology 1 (PHP, MySQL database design)&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Projects</title>

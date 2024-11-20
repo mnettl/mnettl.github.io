@@ -5,11 +5,14 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Categories | Morgan Nettles</title>
+<title>Nt_a | Morgan Nettles</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="Because the business was located in a rural area, the owners were inundated with calls from customers inquiring how to get there. The main objectives of the site were to 1) give customers an overview of services offered, and 2) to provide easy-to-find directions to get there.
+I coded the website, wrote the copy, and used SEO to get the page to the top of Google search results.
+![](/images/2024-01-02 15_02_51-index.png)
+screenshot of the Home page">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/categories/">
+<link rel="canonical" href="http://localhost:1313/tech_writing/nt_a.md">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.fc220c15db4aef0318bbf30adc45d33d4d7c88deff3238b23eb255afdc472ca6.css" integrity="sha256-/CIMFdtK7wMYu/MK3EXTPU18iN7/MjiyPrJVr9xHLKY=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -18,8 +21,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/categories/index.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/categories/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/tech_writing/nt_a.md">
 <noscript>
     <style>
         #theme-toggle,
@@ -31,7 +33,7 @@
 </noscript>
 </head>
 
-<body class="list dark" id="top">
+<body class=" dark" id="top">
 
 <header class="header">
     <nav class="nav">
@@ -41,21 +43,37 @@
             </div>
         </div>
         <ul id="menu">
-            <li>
-                <a href="http://localhost:1313/tech_writing/gumroad/index/" title="Gumroad">
-                    <span>Gumroad</span>
-                </a>
-            </li>
         </ul>
     </nav>
 </header>
 <main class="main">
-<header class="page-header">
-    <h1>Categories</h1>
-</header>
 
-<ul class="terms-tags">
-</ul>
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Nt_a
+    </h1>
+    <div class="post-meta"><span title='2024-11-18 13:54:06 -0500 EST'>November 18, 2024</span>
+
+</div>
+  </header> 
+  <div class="post-content"><p>Because the business was located in a rural area, the owners were inundated with calls from customers inquiring how to get there. The main objectives of the site were to 1) give customers an overview of services offered, and 2) to provide easy-to-find directions to get there.</p>
+<p>I coded the website, wrote the copy, and used SEO to get the page to the top of Google search results.</p>
+<p>![](/images/2024-01-02 15_02_51-index.png)
+<em>screenshot of the Home page</em></p>
+<p>![](/images/2024-01-02 15_01_43-about.png)
+<em>screenshot of the About Us page</em></p>
+<p><a href="!%5B%5D(/images/2024-01-23-contact-us.png)">//</a>: <em>Screenshot of the Contact Us page</em></p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
     </main>
     
 <footer class="footer">
