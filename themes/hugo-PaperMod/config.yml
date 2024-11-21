@@ -1,4 +1,5 @@
 params:
+  social: true
   defaultTheme: dark
   disableThemeToggle: true
   profileMode:
