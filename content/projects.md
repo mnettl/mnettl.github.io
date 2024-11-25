@@ -18,9 +18,9 @@ url = "/projects"
 
 
 ## Various Apps
-- **Omnivore JSON Merger (2024)** - Custom script to merge Omnivore export files (Python)
-- **Arch Install Scripts (2024)** - Suite of CLI scripts to install Arch Linux (Bash)
+- **Omnivore JSON Merger (2024)** - Custom script to merge the now defunct read-it-later/RSS app Omnivore's JSON export files (Python)
+- <a href="https://github.com/monett010/arch-install_v2">**Arch Install Scripts (2024)** </a>- Suite of CLI scripts to install Arch Linux (Bash)
 - **Discord Updater**- Script to update Discord on Debian Linux and Debian-based distros
 - **YouTubeMusic2CSV** - Converts Youtube Music playlists to CSV files (Python)
-- **TikTok backup suite (2022-2023)** - Suite of scripts to rename downloaded videos, write filenames to CSV, and merge the CSV to a Notion database (Python)
+- <a href="https://github.com/mnettl/video_backups">**TikTok backup suite (2022-2023)**</a> - Suite of scripts to rename downloaded videos, write filenames to CSV, and merge the CSV to a Notion database (Python)
 
