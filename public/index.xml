@@ -6,12 +6,42 @@
     <description>Recent content on Morgan Nettles</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2024 15:41:11 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;web-apps&#34;&gt;Web Apps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Library (2024)&lt;/strong&gt; - (JavaScript, Python, Flask, MySQL)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nettles Tire &amp;amp; Auto Svc. Center, LLC (2015)&lt;/strong&gt; - responsive website for a small business (HTML, CSS, jQuery)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CoffeeBrew (2017)&lt;/strong&gt; - (PHP 7, MySQL, jQuery)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FinancePro (2016)&lt;/strong&gt; - (PHP 7, MySQL)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CD Collection&lt;/strong&gt; - (PHP 7, MySQL)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rest-apis&#34;&gt;REST APIs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Connections API (2024)&lt;/strong&gt; - Unofficial archive for the popular word game (Python, Flask, SQLite, JSON) [API | &lt;a href=&#34;https://github.com/mnettl/connections_api&#34;&gt;Documentation&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Library API (2024)&lt;/strong&gt; - Backend for Library app (Python, Flask &amp;amp; MySQL) [API | Documentation]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;various-apps&#34;&gt;Various Apps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Omnivore JSON Merger (2024)&lt;/strong&gt; - Custom script to merge the now defunct read-it-later/RSS app Omnivore&amp;rsquo;s JSON export files (Python)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/monett010/arch-install_v2&#34;&gt;&lt;strong&gt;Arch Install Scripts (2024)&lt;/strong&gt; &lt;/a&gt;- Suite of CLI scripts to install Arch Linux (Bash)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - **Discord Updater**- Script to update Discord on Debian Linux and Debian-based distros --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;YouTubeMusic2CSV&lt;/strong&gt; - Converts Youtube Music playlists to CSV files (Python)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mnettl/video_backups&#34;&gt;&lt;strong&gt;TikTok backup suite (2022-2023)&lt;/strong&gt;&lt;/a&gt; - Suite of scripts to rename downloaded videos, write filenames to CSV, and merge the CSV to a Notion database (Python)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- date = &#39;2023-11-01T17:53:56-04:00&#39; --&gt;</description>
+    </item>
     <item>
       <title>Technical Writing</title>
       <link>http://localhost:1313/tech_writing/</link>
-      <pubDate>Wed, 13 Nov 2024 15:41:11 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tech_writing/</guid>
       <description>&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
 &lt;ul&gt;
@@ -45,36 +75,8 @@
 &lt;li&gt;Integrated Marketing Communications&lt;/li&gt;
 &lt;li&gt;Computer Science 1 &amp;amp; 2 (Java)&lt;/li&gt;
 &lt;li&gt;Information Technology 1 (PHP, MySQL database design)&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Fri, 01 Nov 2024 17:53:56 -0400</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;web-apps&#34;&gt;Web Apps&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Library (2024)&lt;/strong&gt; - (JavaScript, Python, Flask, MySQL)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nettles Tire &amp;amp; Auto Svc. Center, LLC (2015)&lt;/strong&gt; - responsive website for a small business (HTML, CSS, jQuery)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CoffeeBrew (2017)&lt;/strong&gt; - (PHP 7, MySQL, jQuery)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;FinancePro (2016)&lt;/strong&gt; - (PHP 7, MySQL)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CD Collection&lt;/strong&gt; - (PHP 7, MySQL)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;rest-apis&#34;&gt;REST APIs&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Connections API (2024)&lt;/strong&gt; - Unofficial archive for the popular word game (Python, Flask, SQLite, JSON) [API | &lt;a href=&#34;https://github.com/mnettl/connections_api&#34;&gt;Documentation&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Library API (2024)&lt;/strong&gt; - Backend for Library app (Python, Flask &amp;amp; MySQL) [API | Documentation]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;various-apps&#34;&gt;Various Apps&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Omnivore JSON Merger (2024)&lt;/strong&gt; - Custom script to merge the now defunct read-it-later/RSS app Omnivore&amp;rsquo;s JSON export files (Python)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/monett010/arch-install_v2&#34;&gt;&lt;strong&gt;Arch Install Scripts (2024)&lt;/strong&gt; &lt;/a&gt;- Suite of CLI scripts to install Arch Linux (Bash)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- - **Discord Updater**- Script to update Discord on Debian Linux and Debian-based distros --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;YouTubeMusic2CSV&lt;/strong&gt; - Converts Youtube Music playlists to CSV files (Python)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mnettl/video_backups&#34;&gt;&lt;strong&gt;TikTok backup suite (2022-2023)&lt;/strong&gt;&lt;/a&gt; - Suite of scripts to rename downloaded videos, write filenames to CSV, and merge the CSV to a Notion database (Python)&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;!-- date = &#39;2024-11-13T15:41:11-05:00&#39; --&gt;</description>
     </item>
   </channel>
 </rss>

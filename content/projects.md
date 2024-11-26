@@ -1,5 +1,4 @@
 +++
-date = '2024-11-01T17:53:56-04:00'
 draft = false
 title = 'Projects'
 url = "/projects"
@@ -24,3 +23,4 @@ url = "/projects"
 - **YouTubeMusic2CSV** - Converts Youtube Music playlists to CSV files (Python)
 - <a href="https://github.com/mnettl/video_backups">**TikTok backup suite (2022-2023)**</a> - Suite of scripts to rename downloaded videos, write filenames to CSV, and merge the CSV to a Notion database (Python)
 
+<!-- date = '2023-11-01T17:53:56-04:00' -->
