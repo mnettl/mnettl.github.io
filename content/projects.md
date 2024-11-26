@@ -13,7 +13,7 @@ url = "/projects"
 - **CD Collection** - (PHP 7, MySQL)
 
 ## REST APIs
-- **Connections API (2024)** - Archive for a popular word game (Python, Flask & SQLite) [API | Documentation]
+- **Connections API (2024)** - Archive for a popular word game (Python, Flask & SQLite) [API | <a href="https://github.com/mnettl/connections_api">Documentation</a>]
 - **Library API (2024)** - Backend for Library app (Python, Flask & MySQL) [API | Documentation]
 
 
