@@ -62,14 +62,16 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;rest-apis&#34;&gt;REST APIs&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Connections API (2024)&lt;/strong&gt; - Archive for a popular word game (Python, Flask &amp;amp; SQLite) [API | &lt;a href=&#34;https://github.com/mnettl/connections_api&#34;&gt;Documentation&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Connections API (2024)&lt;/strong&gt; - Unofficial archive for the popular word game (Python, Flask, SQLite, JSON) [API | &lt;a href=&#34;https://github.com/mnettl/connections_api&#34;&gt;Documentation&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Library API (2024)&lt;/strong&gt; - Backend for Library app (Python, Flask &amp;amp; MySQL) [API | Documentation]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;various-apps&#34;&gt;Various Apps&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Omnivore JSON Merger (2024)&lt;/strong&gt; - Custom script to merge the now defunct read-it-later/RSS app Omnivore&amp;rsquo;s JSON export files (Python)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/monett010/arch-install_v2&#34;&gt;&lt;strong&gt;Arch Install Scripts (2024)&lt;/strong&gt; &lt;/a&gt;- Suite of CLI scripts to install Arch Linux (Bash)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Discord Updater&lt;/strong&gt;- Script to update Discord on Debian Linux and Debian-based distros&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - **Discord Updater**- Script to update Discord on Debian Linux and Debian-based distros --&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;YouTubeMusic2CSV&lt;/strong&gt; - Converts Youtube Music playlists to CSV files (Python)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/mnettl/video_backups&#34;&gt;&lt;strong&gt;TikTok backup suite (2022-2023)&lt;/strong&gt;&lt;/a&gt; - Suite of scripts to rename downloaded videos, write filenames to CSV, and merge the CSV to a Notion database (Python)&lt;/li&gt;
 &lt;/ul&gt;</description>
