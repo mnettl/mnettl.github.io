@@ -21,7 +21,7 @@ params:
         url: "/tech_writing"
 
   socialIcons: # optional
-    # - name: "LinkedIn"
-    #   url: "https://linkedin.com/#"
     - name: "Github"
       url: "https://github.com/mnettl"
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/morgan-nettles-0b9468300/"
