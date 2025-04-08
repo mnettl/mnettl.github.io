@@ -34,6 +34,7 @@ url = "/tech_writing"
 - Google Technical Writing 1 & 2, Technical Writing for Accessibility (2023)
 - Modern English Grammar
 - Creative Writing
+- Introduction to Marketing
 - Integrated Marketing Communications
 - Computer Science 1 & 2 (Java)
 - Information Technology 1 (PHP, MySQL database design)
