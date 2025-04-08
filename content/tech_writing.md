@@ -16,7 +16,7 @@ url = "/tech_writing"
 
 ## Work Examples
 ### Documentation
-Github
+<a href="https://github.com/mnettl">Github</a>
 
 
 ### Website Copy
