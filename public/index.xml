@@ -4,7 +4,7 @@
     <title>Morgan Nettles</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Morgan Nettles</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -55,11 +55,11 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;work-examples&#34;&gt;Work Examples&lt;/h2&gt;
 &lt;h3 id=&#34;documentation&#34;&gt;Documentation&lt;/h3&gt;
-&lt;p&gt;Github&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mnettl&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;website-copy&#34;&gt;Website Copy&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;website copy - &lt;a href=&#34;http://localhost:1313/tech_writing/nt_a/index&#34;&gt;Nettles Tire and Auto Service Center, LLC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;sales copy - &lt;a href=&#34;http://localhost:1313/tech_writing/gumroad/index&#34;&gt;Gumroad - Simple Notion Reading List Template&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sales copy - &lt;a href=&#34;http://localhost:1313/tech_writing/gumroad/index&#34;&gt;Gumroad - Simple Notion Reading Tracker Template&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 [//]: ### Explaining Tech to the Tech Averse
@@ -72,6 +72,7 @@
 &lt;li&gt;Google Technical Writing 1 &amp;amp; 2, Technical Writing for Accessibility (2023)&lt;/li&gt;
 &lt;li&gt;Modern English Grammar&lt;/li&gt;
 &lt;li&gt;Creative Writing&lt;/li&gt;
+&lt;li&gt;Introduction to Marketing&lt;/li&gt;
 &lt;li&gt;Integrated Marketing Communications&lt;/li&gt;
 &lt;li&gt;Computer Science 1 &amp;amp; 2 (Java)&lt;/li&gt;
 &lt;li&gt;Information Technology 1 (PHP, MySQL database design)&lt;/li&gt;

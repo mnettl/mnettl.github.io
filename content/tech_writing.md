@@ -21,7 +21,7 @@ url = "/tech_writing"
 
 ### Website Copy
 - website copy - <a href="/tech_writing/nt_a/index">Nettles Tire and Auto Service Center, LLC</a>
-- sales copy - <a href="/tech_writing/gumroad/index">Gumroad - Simple Notion Reading List Template</a>
+- sales copy - <a href="/tech_writing/gumroad/index">Gumroad - Simple Notion Reading Tracker Template</a>
 
 <!--
 [//]: ### Explaining Tech to the Tech Averse
