@@ -7,9 +7,10 @@ url = "/projects"
 ## Web Apps
 - **Library** - (JavaScript, Python, Flask, MySQL)
 - **Nettles Tire & Auto Svc. Center, LLC** - responsive website for a small business (HTML, CSS, jQuery)
+- **Music Collection** - (PHP 7, MySQL)
 - **CoffeeBrew** - (PHP 7, MySQL, jQuery)
 - **FinancePro** - (PHP 7, MySQL)
-- **Music Collection** - (PHP 7, MySQL)
+
 
 ## REST APIs
 - **Connections API** - Unofficial archive for the popular word game (Python, Flask, SQLite, JSON) [API | <a href="https://github.com/mnettl/connections_api">Documentation</a>]
