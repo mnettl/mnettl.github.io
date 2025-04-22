@@ -13,7 +13,8 @@ url = "/projects"
 
 ## REST APIs
 - **Connections API** - Unofficial archive for the popular word game (Python, Flask, SQLite, JSON) [API | <a href="https://github.com/mnettl/connections_api">Documentation</a>]
-- **Library API** - Backend for Library app (Python, Flask & MySQL) [API | Documentation]
+- **Bible Tracker API** - Backend for Bible Tracker web app (Python, Flask, & SQLite 3)
+- **Library API** - Backend for Library app (Python, Flask & MySQL)
 
 
 ## Various Apps
