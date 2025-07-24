@@ -28,12 +28,17 @@ a:hover {
 
 header > h1{
     /* text-align: center; */
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: bold;
 }
 
+
 /* header > h3 {
     text-align: center;
+} */
+
+/* h2 {
+    padding-left: .25em;
 } */
 
 div.main_link {
@@ -51,4 +56,35 @@ img.icon {
 
 footer {
     text-align: center;
+}
+
+ul.skill_list {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 75%;
+    /* border: 1px dashed red; */
+
+}
+
+ul.skill_list > li {
+    list-style-type: none;
+    padding: .275em;
+    margin: .275em;
+    border-radius: .25em;
+    /* background-color: #DADEE1; */
+    background-color: #ECF0F6;
+    /* border: 1px dashed red; */
+    border: 1px solid #ECF0F6;
+}
+
+@media screen and (min-width:800px) {
+    header, section#body, footer {
+        width: 60%;
+        margin: auto;
+        /* border-right: 1px dashed red;
+        border-left: 1px dashed red; */
+    }
+
+
 }
