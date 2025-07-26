@@ -4,19 +4,20 @@
 }
 
 body {
-	/* padding: 0;
-	margin: 0; */
+	padding: 0;
+	margin: 0;
     font-family: "Inter", "sans serif"; 
+    font-size: 16px;
 }
 
 a {
     text-decoration: none;
-    color: black;
+    /* color: black; */
     
 }
 
 a:hover {
-    color:aquamarine;
+    color:#0f2e57;
 }
 
 /* header {
@@ -26,25 +27,53 @@ a:hover {
     color: white;
 } */
 
+header {
+    background-color: #0f2e57;
+    padding: 0px; margin: 0;
+}
+
 header > h1{
     /* text-align: center; */
     /* text-transform: uppercase; */
     font-weight: bold;
 }
 
+div#header_container {
+    color: white;
+}
 
-/* header > h3 {
-    text-align: center;
+
+div#links {
+    align-items: center;
+    padding-top: 1em;
+}
+
+
+/* div#links {
+    display: flex;
 } */
 
-/* h2 {
-    padding-left: .25em;
+/* div#links > div.main_link {
+    border: 1px solid black;
+    border-radius: .25em;
+    padding-right: .5em;
+    margin: .5em;
+    width: 95px;
 } */
+
+div#links a {
+    color: white;
+}
+
+div#links:hover {
+    color: #0f2e57;
+}
 
 div.main_link {
     height: 2em;
     display: flex;
     align-items: center;
+    font-size: .8em;
 }
 
 img.icon {
@@ -56,6 +85,18 @@ img.icon {
 
 footer {
     text-align: center;
+    /* background-color: black; */
+    background: black;
+    color: white;
+    height: 100px;
+    padding: 0; margin: 0;
+}
+
+footer > p {
+    font-size: 12px;
+    height: 100px;
+    line-height: 100px;
+
 }
 
 ul.skill_list {
@@ -78,12 +119,41 @@ ul.skill_list > li {
     border: 1px solid #ECF0F6;
 }
 
+@media screen and (max-width:799px) {
+    div#name_and_title, div#links {
+        display: block;
+    }
+    div#name_and_title {
+        width:100%;
+    }
+    div#links {
+        width: 100%;
+    }
+}
+
 @media screen and (min-width:800px) {
-    header, section#body, footer {
-        width: 60%;
+    div#header_container {
         margin: auto;
-        /* border-right: 1px dashed red;
-        border-left: 1px dashed red; */
+        /* border: 1px dashed green; */
+    }
+    div#header_container, section#body {
+        width: 50%;
+        margin: auto;
+    }
+
+    div#header_container {
+        display: flex;
+        
+    }
+
+    div#name_and_title {
+    width: 60%;
+    /* border: 1px dashed red; */
+    }
+
+    div#links {
+        width: 40%; 
+        /* border: 1px dashed red; */
     }
 
 
