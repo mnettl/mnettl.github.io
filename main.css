@@ -7,7 +7,8 @@ body {
 	padding: 0;
 	margin: 0;
     font-family: "Inter", "sans serif"; 
-    font-size: 16px;
+    font-size: 17px;
+    color: #3D3A3A;
 }
 
 a {
@@ -30,12 +31,18 @@ a:hover {
 header {
     background-color: #0f2e57;
     padding: 0px; margin: 0;
+    padding-left: 1em; padding-right: 1em;
 }
 
-header > h1{
+/* header h1{ */
+    /* font-weight: 300; */
     /* text-align: center; */
     /* text-transform: uppercase; */
-    font-weight: bold;
+    /* font-weight: bold; */
+/*}*/
+
+header h1, header h3 {
+    font-weight: 300;
 }
 
 div#header_container {
@@ -65,8 +72,8 @@ div#links a {
     color: white;
 }
 
-div#links:hover {
-    color: #0f2e57;
+div#links a:hover {
+    text-decoration: underline;
 }
 
 div.main_link {
@@ -86,8 +93,8 @@ img.icon {
 footer {
     text-align: center;
     /* background-color: black; */
-    background: black;
-    color: white;
+    /* background: black; */
+    /* color: white; */
     height: 100px;
     padding: 0; margin: 0;
 }
@@ -97,6 +104,16 @@ footer > p {
     height: 100px;
     line-height: 100px;
 
+}
+
+section#body {
+    padding-left: 1em; padding-right: 1em;
+    /* border: 1px dashed red; */
+}
+
+p#intro {
+    padding-left: 1em; padding-right: 1em;
+    /* border: 1px solid red; */
 }
 
 ul.skill_list {
@@ -117,6 +134,22 @@ ul.skill_list > li {
     background-color: #ECF0F6;
     /* border: 1px dashed red; */
     border: 1px solid #ECF0F6;
+    color: #3D3A3A;
+    font-size: 16px;
+    font-weight:400;
+}
+
+ul#projects li, ul#education li {
+    padding: .5em;
+}
+
+h4#school {
+    font-weight: 600;
+}
+
+ul#projects a {
+    text-decoration: underline;
+    color: #3D3A3A;
 }
 
 @media screen and (max-width:799px) {
@@ -128,6 +161,12 @@ ul.skill_list > li {
     }
     div#links {
         width: 100%;
+    }
+}
+
+@media screen and (max-width:900px) {
+    section#body {
+        width:80%;
     }
 }
 
