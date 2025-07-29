@@ -63,7 +63,6 @@ div#links {
 /* div#links > div.main_link {
     border: 1px solid black;
     border-radius: .25em;
-    padding-right: .5em;
     margin: .5em;
     width: 95px;
 } */
@@ -76,11 +75,20 @@ div#links a:hover {
     text-decoration: underline;
 }
 
+
 div.main_link {
     height: 2em;
     display: flex;
     align-items: center;
     font-size: .8em;
+    /* width: 95px; */
+}
+
+div.main_link a {
+    border: 1px solid white;
+    border-radius: .25em;
+    margin: .5em;
+    min-width: 95px;
 }
 
 img.icon {
