@@ -49,10 +49,22 @@ div#header_container {
     color: white;
 }
 
+#name_and_title {
+    padding-bottom: 0;
+}
+
+#name_and_title h1, #name_and_title h3 {
+    text-align: center;
+
+}
+
 
 div#links {
     align-items: center;
-    padding-top: 1em;
+    /* padding-top: 1em; */
+    padding-bottom: .5em;
+    display: flex;
+    justify-content: center;
 }
 
 
@@ -188,18 +200,18 @@ ul#projects a {
         margin: auto;
     }
 
-    div#header_container {
+    /* div#header_container {
         display: flex;
         
-    }
+    } */
 
     div#name_and_title {
-    width: 60%;
-    /* border: 1px dashed red; */
+    /* width: 60%; */
+    border: 1px dashed #0f2e57;;
     }
 
     div#links {
-        width: 40%; 
+        /* width: 40%;  */
         /* border: 1px dashed red; */
     }
 
