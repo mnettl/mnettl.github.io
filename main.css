@@ -91,18 +91,27 @@ div.main_link {
     display: flex;
     align-items: center;
     font-size: .8em;
-    /* width: 95px; */
 }
 
 div.main_link a {
-    border: 1px solid white;
-    border-radius: .25em;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid white;
+    border-radius: .25em; */
     margin: .5em;
-    min-width: 95px;
+    /* min-width: 95px; */
 }
 
 img.icon {
-    height: 1.5em;
+    height: 1.25em;
+    width: 1.25em;
+    /* /* padding-right: .5em; */
+    padding-right:.25em;
+    /* border: 1px dashed green; */
+}
+
+svg.icon {
+        height: 1.5em;
     width: 1.5em;
     padding-right: .5em;
     padding-left: .5em;
@@ -129,10 +138,6 @@ section#body {
     /* border: 1px dashed red; */
 }
 
-p#intro {
-    padding-left: 1em; padding-right: 1em;
-    /* border: 1px solid red; */
-}
 
 ul.skill_list {
     padding: 0;
