@@ -35,14 +35,11 @@ header {
     height: 180px;
 }
 
-/* header h1{ */
-    /* font-weight: 300; */
-    /* text-align: center; */
-    /* text-transform: uppercase; */
-    /* font-weight: bold; */
-/*}*/
+header h1 {
+    text-transform: uppercase;
+}
 
-header h1, header h3 {
+header h3 {
     font-weight: 300;
 }
 
@@ -173,7 +170,7 @@ ul#projects a {
     color: #3D3A3A;
 }
 
-@media screen and (max-width:799px) {
+/* @media screen and (max-width:799px) {
     div#name_and_title, div#links {
         display: block;
     }
@@ -183,15 +180,20 @@ ul#projects a {
     div#links {
         width: 100%;
     }
-}
+} */
 
 @media screen and (max-width:900px) {
     section#body {
-        width:80%;
+        width:90%;
+    }
+
+    div#name_and_title {
+        /* width: 60%; */
+        border: 1px dashed #0f2e57;;
     }
 }
 
-@media screen and (min-width:800px) {
+@media screen and (min-width:901px) {
     div#header_container {
         margin: auto;
         /* border: 1px dashed green; */
