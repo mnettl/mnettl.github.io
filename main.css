@@ -124,9 +124,12 @@ footer {
 }
 
 footer > p {
-    font-size: 12px;
-    height: 100px;
-    line-height: 100px;
+    font-size: 13px;
+    /*height: 100px;*/
+	vertical-align: text-bottom;
+	/* border: 1px dashed blue; */
+    padding-top: 75px;
+    /* line-height: 100px; */
 
 }
 
@@ -158,6 +161,10 @@ ul.skill_list > li {
     font-size: 16px;
     font-weight:400;
 }
+
+/* ul.skill_list li:hover {
+    background-color: #ecf0f6;
+} */
 
 ul#projects li, ul#education li {
     padding: .5em;
