@@ -12,21 +12,12 @@ body {
 }
 
 a {
-    text-decoration: none;
-    /* color: black; */
-    
+    text-decoration: none;    
 }
 
 a:hover {
     color:#0f2e57;
 }
-
-/* header {
-    display: flex;
-
-    background-color: #0f2e57;
-    color: white;
-} */
 
 header {
     background-color: #0f2e57;
@@ -59,23 +50,10 @@ div#header_container {
 
 div#links {
     align-items: center;
-    /* padding-top: 1em; */
     padding-bottom: .5em;
     display: flex;
     justify-content: center;
 }
-
-
-/* div#links {
-    display: flex;
-} */
-
-/* div#links > div.main_link {
-    border: 1px solid black;
-    border-radius: .25em;
-    margin: .5em;
-    width: 95px;
-} */
 
 div#links a {
     color: white;
@@ -96,10 +74,7 @@ div.main_link {
 div.main_link a {
     display: flex;
     align-items: center;
-    /* border: 1px solid white;
-    border-radius: .25em; */
     margin: .5em;
-    /* min-width: 95px; */
 }
 
 img.icon {
@@ -125,7 +100,6 @@ footer {
 
 footer > p {
     font-size: 13px;
-    /*height: 100px;*/
 	vertical-align: text-bottom;
 	/* border: 1px dashed blue; */
     padding-top: 75px;
@@ -162,10 +136,6 @@ ul.skill_list > li {
     font-weight:400;
 }
 
-/* ul.skill_list li:hover {
-    background-color: #ecf0f6;
-} */
-
 ul#projects li, ul#education li {
     padding: .5em;
 }
@@ -200,19 +170,9 @@ ul#projects a {
         margin: auto;
     }
 
-    /* div#header_container {
-        display: flex;
-        
-    } */
-
     div#name_and_title {
     /* width: 60%; */
     border: 1px dashed #0f2e57;;
-    }
-
-    div#links {
-        /* width: 40%;  */
-        /* border: 1px dashed red; */
     }
 
 
