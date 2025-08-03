@@ -1,28 +1,30 @@
 @font-face {
     font-family: "Inter";
-    src: url('Inter_VariableFont.ttf');
+    src: url("Inter_VariableFont.ttf");
 }
 
 body {
-	padding: 0;
-	margin: 0;
-    font-family: "Inter", "sans serif"; 
+    padding: 0;
+    margin: 0;
+    font-family: "Inter", "sans serif";
     font-size: 17px;
-    color: #3D3A3A;
+    color: #3d3a3a;
 }
 
 a {
-    text-decoration: none;    
+    text-decoration: none;
 }
 
 a:hover {
-    color:#0f2e57;
+    color: #0f2e57;
 }
 
 header {
     background-color: #0f2e57;
-    padding: 0px; margin: 0;
-    padding-left: 1em; padding-right: 1em;
+    padding: 0px;
+    margin: 0;
+    padding-left: 1em;
+    padding-right: 1em;
     height: 180px;
 }
 
@@ -42,15 +44,14 @@ div#header_container {
     padding-bottom: 0;
 }
 
-#name_and_title h1, #name_and_title h3 {
+#name_and_title h1,
+#name_and_title h3 {
     text-align: center;
-
 }
-
 
 div#links {
     align-items: center;
-    padding-bottom: .5em;
+    padding-bottom: 0.5em;
     display: flex;
     justify-content: center;
 }
@@ -63,55 +64,61 @@ div#links a:hover {
     text-decoration: underline;
 }
 
-
 div.main_link {
     height: 2em;
     display: flex;
     align-items: center;
-    font-size: .8em;
+    font-size: 0.8em;
 }
 
 div.main_link a {
     display: flex;
     align-items: center;
-    margin: .5em;
+    margin: 0.5em;
 }
 
 img.icon {
     height: 1.25em;
     width: 1.25em;
-    padding-right:.25em;
+    padding-right: 0.25em;
     /* border: 1px dashed green; */
 }
 
 svg.icon {
-        height: 1.5em;
+    height: 1.5em;
     width: 1.5em;
-    padding-right: .5em;
-    padding-left: .5em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
 }
 
 footer {
     text-align: center;
-    background-color: #CED9DB;
-    height: 100px;
-    padding: 0; margin: 0; margin-top: 1.5em;
+    /*background-color: #ced9db;*/
+    /*height: 100px;*/
+    padding: 0;
+    margin: 0;
+    margin-top: 1.5em;
 }
 
 footer > p {
     font-size: 13px;
-	vertical-align: text-bottom;
-	/* border: 1px dashed blue; */
-    padding-top: 75px;
+    vertical-align: text-bottom;
+    /* border: 1px dashed blue; */
+    /*padding-top: 75px;*/
+    padding-top: 25px;
     /* line-height: 100px; */
+}
 
+footer a {
+    text-decoration: underline;
+    color: #3d3a3a;
 }
 
 section#body {
-    padding-left: 1em; padding-right: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
     /* border: 1px dashed red; */
 }
-
 
 ul.skill_list {
     padding: 0;
@@ -119,25 +126,25 @@ ul.skill_list {
     flex-wrap: wrap;
     width: 75%;
     /* border: 1px dashed red; */
-
 }
 
 ul.skill_list > li {
     list-style-type: none;
-    padding: .275em;
-    margin: .275em;
-    border-radius: .25em;
+    padding: 0.275em;
+    margin: 0.275em;
+    border-radius: 0.25em;
     /* background-color: #DADEE1; */
-    background-color: #ECF0F6;
+    background-color: #ecf0f6;
     /* border: 1px dashed red; */
-    border: 1px solid #ECF0F6;
-    color: #3D3A3A;
+    border: 1px solid #ecf0f6;
+    color: #3d3a3a;
     font-size: 16px;
-    font-weight:400;
+    font-weight: 400;
 }
 
-ul#projects li, ul#education li {
-    padding: .5em;
+ul#projects li,
+ul#education li {
+    padding: 0.5em;
 }
 
 h4#school {
@@ -146,34 +153,33 @@ h4#school {
 
 ul#projects a {
     text-decoration: underline;
-    color: #3D3A3A;
+    color: #3d3a3a;
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width: 900px) {
     section#body {
-        width:90%;
+        width: 90%;
     }
 
     div#name_and_title {
         /* width: 60%; */
-        border: 1px dashed #0f2e57;;
+        border: 1px dashed #0f2e57;
     }
 }
 
-@media screen and (min-width:900px) {
+@media screen and (min-width: 900px) {
     div#header_container {
         margin: auto;
         /* border: 1px dashed green; */
     }
-    div#header_container, section#body {
+    div#header_container,
+    section#body {
         width: 50%;
         margin: auto;
     }
 
     div#name_and_title {
-    /* width: 60%; */
-    border: 1px dashed #0f2e57;;
+        /* width: 60%; */
+        border: 1px dashed #0f2e57;
     }
-
-
 }
