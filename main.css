@@ -142,6 +142,7 @@ ul.skill_list > li {
     font-weight: 400;
 }
 
+ul#summary li,
 ul#projects li,
 ul#education li {
     padding: 0.5em;
