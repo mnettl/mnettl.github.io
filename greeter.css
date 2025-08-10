@@ -1,0 +1,7 @@
+h1, h3 {
+    text-align: center;
+}
+
+div#greeter_link_container {
+    display: flex;
+}
