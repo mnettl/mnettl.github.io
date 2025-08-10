@@ -1,7 +1,47 @@
+section#greeting {
+    min-height: 90vh;
+    /* border: 1px dashed red; */
+}
+
 h1, h3 {
     text-align: center;
 }
 
+div#name_container {
+    position: relative;
+    top: 30vh;
+    height: 300px;
+    /* border: 1px dashed green; */
+}
+
 div#greeter_link_container {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px dashed blue; */
+}
+
+a.greeter_link {
+    color: white;
+    background-color: #3d3a3a;
+    height: 1.5em;
+    border: 1px solid #3d3a3a;
+    border-radius: .40em;
+    padding: .45em; padding-left: .55em; padding-right:.55em;
+    line-height: 1.5em;
+    min-width: 40px;
+    text-align:center;
+    font-size: 18px;
+}
+
+a.greeter_link:hover {
+    background-color:#0f2e57;
+}
+
+a#dev_resume {
+    margin-right: .75em;
+}
+
+footer#greeter_footer > p {
+    padding-top: 0;
 }
