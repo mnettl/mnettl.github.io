@@ -7,6 +7,15 @@ h1, h3 {
     text-align: center;
 }
 
+h1 {
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-weight: normal;
+    margin-top: 0;
+}
+
 div#name_container {
     position: relative;
     top: 30vh;
@@ -26,7 +35,7 @@ a.greeter_link {
     background-color: #3d3a3a;
     height: 1.5em;
     border: 1px solid #3d3a3a;
-    border-radius: .40em;
+    border-radius: .65em;
     padding: .45em; padding-left: .55em; padding-right:.55em;
     line-height: 1.5em;
     min-width: 40px;
@@ -36,6 +45,7 @@ a.greeter_link {
 
 a.greeter_link:hover {
     background-color:#0f2e57;
+    transition: .25s ease-in;
 }
 
 a#dev_resume {
