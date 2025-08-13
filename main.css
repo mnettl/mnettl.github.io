@@ -145,7 +145,7 @@ ul.skill_list > li {
 ul#summary li,
 ul#projects li,
 ul#education li,
-ul#work_examples li {
+ul.work_examples li {
     padding: 0.5em;
 }
 
@@ -153,7 +153,7 @@ h4#school {
     font-weight: 600;
 }
 
-ul#projects a, ul#work_examples a {
+ul#projects a, ul.work_examples a {
     text-decoration: underline;
     color: #3d3a3a;
 }
