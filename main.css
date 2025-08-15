@@ -155,7 +155,19 @@ ul.work_examples li {
 }
 
 h4#school {
-    font-weight: 600;
+    /* font-weight: 600; */
+    font-weight: normal;
+}
+
+span#school {
+    display: inline-block;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+span#degree {
+    display: inline-block;
+    padding-bottom: 20px;
 }
 
 ul#projects a, ul.work_examples a {
