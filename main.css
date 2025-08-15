@@ -114,6 +114,11 @@ footer a {
     color: #3d3a3a;
 }
 
+footer a:hover {
+    /* color: #746e6e; */
+    color: #696262;
+}
+
 section#body {
     padding-left: 1em;
     padding-right: 1em;
@@ -157,6 +162,12 @@ ul#projects a, ul.work_examples a {
     text-decoration: underline;
     color: #3d3a3a;
 }
+
+ul#projects a:hover, ul.work_examples a:hover {
+    /* color: #746e6e; */
+    color: #696262;
+}
+
 
 @media screen and (max-width: 900px) {
     section#body {
