@@ -45,7 +45,13 @@ a.greeter_link {
 
 a.greeter_link:hover {
     background-color:#0f2e57;
-    transition: .25s ease-in;
+    transition: .20s ease-in;
+}
+
+a.greeter_link:active {
+    background-color:#0f2e57;
+    transform: scale(.96);
+    transition: .05s;
 }
 
 a#dev_resume {
