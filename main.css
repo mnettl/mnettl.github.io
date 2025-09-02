@@ -28,9 +28,9 @@ header {
     height: 180px;
 }
 
-header h1 {
+/* header h1 {
     text-transform: uppercase;
-}
+} */
 
 header h1 a, header h1 a:hover {
     color: white;
