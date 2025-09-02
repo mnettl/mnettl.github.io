@@ -40,6 +40,14 @@ header h3 {
     font-weight: 300;
 }
 
+header h3 > a {
+    color: white;
+}
+
+header h3 > a:hover {
+    color: white;
+}
+
 div#header_container {
     color: white;
 }
