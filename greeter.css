@@ -51,7 +51,10 @@ a.greeter_link:hover {
 a.greeter_link:active {
     background-color:#0f2e57;
     transform: scale(.96);
+    /* transform: scale(.70); */
     transition: .05s;
+    /* backface-visibility: hidden; */
+    /* transform: translateZ(0); */
 }
 
 a#dev_resume {
