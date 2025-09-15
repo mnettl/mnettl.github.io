@@ -64,3 +64,9 @@ a#dev_resume {
 footer#greeter_footer > p {
     padding-top: 0;
 }
+
+@media screen and (max-width: 900px) {
+    section#greeting {
+        min-height: 80vh;
+    }
+}
