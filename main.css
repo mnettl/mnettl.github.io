@@ -159,6 +159,11 @@ ul.skill_list > li {
     font-weight: 400;
 }
 
+ul.skill_list > li:hover {
+    background-color: #D2D5D9;
+    border: 1px solid #D2D5D9;
+}
+
 ul#summary li,
 ul#projects li,
 ul#education li,
